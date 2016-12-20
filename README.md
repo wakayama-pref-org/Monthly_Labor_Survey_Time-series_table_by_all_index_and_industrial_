@@ -1,4 +1,4 @@
-# Monthly_Labor_Survey_Time-series_table_by_all_index_and_industrial_
+# monthly_labor_survey_time-series_table_by_all_index_and_industrial_
 【毎月勤労統計調査(和歌山県)_産業別時系列表（賃金・労働時間・雇用指数、労働異動率及び対前年比（差）)です。】
 ◆毎月勤労統計調査とは
 〇調査の目的
